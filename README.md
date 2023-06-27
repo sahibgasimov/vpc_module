@@ -15,3 +15,13 @@ To utilize this module, clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/sahibgasimov/vpc_module.git
+
+Next, navigate into the project directory:
+
+```bash
+cd vpc_module
+
+Now, initialize Terraform:
+
+```bash
+terraform init
